@@ -58,7 +58,7 @@ void actualitzarPantalla() {
 
   oled.clearDisplay();
 
-  // Titol
+  // Titol 
   oled.setTextSize(1);
   oled.setTextColor(WHITE);
   oled.setCursor(25, 5);
